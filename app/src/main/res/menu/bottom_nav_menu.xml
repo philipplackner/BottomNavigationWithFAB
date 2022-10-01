@@ -10,7 +10,8 @@
         android:icon="@drawable/ic_search" />
 
     <item android:id="@+id/placeholder"
-        android:title="" />
+        android:title=""
+        android:enabled="false"/>
 
     <item android:id="@+id/miProfile"
         android:title="Profile"
