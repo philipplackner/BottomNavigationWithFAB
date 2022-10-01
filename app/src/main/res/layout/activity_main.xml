@@ -22,7 +22,8 @@
             android:layout_height="match_parent"
             android:layout_marginEnd="16dp"
             android:background="@android:color/transparent"
-            app:menu="@menu/bottom_nav_menu" />
+            app:menu="@menu/bottom_nav_menu"
+            android:outlineSpotShadowColor="@android:color/transparent"/>
 
     </com.google.android.material.bottomappbar.BottomAppBar>
 
